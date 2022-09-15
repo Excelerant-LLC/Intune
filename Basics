@@ -1,0 +1,5 @@
+Create Device Profile
+  https://docs.microsoft.com/en-us/mem/intune/configuration/device-profile-create
+Create Groups and categorize devices into groups
+  https://docs.microsoft.com/en-us/mem/intune/enrollment/device-group-mapping
+  https://docs.microsoft.com/en-us/mem/intune/configuration/device-profile-assign
